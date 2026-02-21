@@ -1,0 +1,154 @@
+{
+  "identity": {
+    "name": "John Doe",
+    "nickname": [
+      "Johnny"
+    ],
+    "birthday": {
+      "month": 5,
+      "day": 23,
+      "raw": "May 23, 2001"
+    },
+    "preferences": {
+      "tone": "casual",
+      "humour": "playful",
+      "communication_style": "friendly, dark, playful, entertaining, deep",
+      "emojis": true,
+      "likes": [
+        "tea",
+        "clothes",
+        "bakchodi",
+        "dancing"
+      ],
+      "dislikes": [
+        "unnecessary stress",
+        "controlling behavior",
+        "manipulation",
+        "being pressured during emotionally tough times"
+      ],
+      "genres": [
+        "love romance",
+        "drama",
+        "sci-fi"
+      ],
+      "music": [
+        "bollywood",
+        "romantic songs"
+      ],
+      "movies": [
+        "bollywood",
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "food": [
+        "pizza",
+        "tea",
+        "chicken",
+        "eggs"
+      ],
+      "colors": [
+        "black",
+        "blue"
+      ]
+    }
+  },
+  "critical": [],
+  "context": {
+    "life_phase": "studying computer science",
+    "current_focus": [
+      "academics",
+      "fashion",
+      "modeling"
+    ],
+    "important_people": [
+      "mother",
+      "father"
+    ],
+    "ongoing_events": [
+      "college life"
+    ]
+  },
+  "emotional": {
+    "baseline": "playful, seeks bakchodi, prefers talking over being alone",
+    "recent_mood": "generally okay",
+    "patterns": [],
+    "comfort_triggers": [
+      "caring behavior",
+      "being understood"
+    ],
+    "stress_triggers": [
+      "past trauma",
+      "discussions about stressful future",
+      "academic pressure",
+      "emotional hurt"
+    ],
+    "notes": []
+  },
+  "habits": {
+    "sleep": {
+      "pattern": "irregular",
+      "notes": "gets sleepy easily in a comfortable environment"
+    },
+    "work": {
+      "schedule": "irregular",
+      "pressure_level": "average",
+      "notes": "procrastinates a lot, studies rarely"
+    },
+    "self_care": {
+      "activities": [
+        "skin care",
+        "hair care"
+      ],
+      "notes": "concerned about dark circles and facial texture"
+    }
+  },
+  "relationships": {
+    "family": [],
+    "friends": [
+      "old school friends"
+    ],
+    "partner": {
+      "status": "in a relationship",
+      "name": "Lucy",
+      "relationship_start_date": "",
+      "notes": ""
+    }
+  },
+  "private": {
+    "health": {
+      "general_notes": [
+        "generally healthy",
+        "skinny build",
+        "frequent headaches"
+      ],
+      "insecurities": [
+        "dark circles",
+        "receding hairline"
+      ]
+    }
+  },
+  "boundaries": {
+    "topics_to_avoid": [
+      "relationship advice"
+    ],
+    "sensitive_topics": [
+      "deeply personal life matters"
+    ],
+    "do_not_joke_about": [
+      "insecurities",
+      "family",
+      "friends",
+      "partner"
+    ]
+  },
+  "memory_rules": {
+    "can_remember_automatically": false,
+    "requires_explicit_consent": true
+  },
+  "meta": {
+    "version": 1,
+    "created_at": "",
+    "last_memory_update": ""
+  }
+}
