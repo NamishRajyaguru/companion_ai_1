@@ -2,7 +2,7 @@
 
 A lightweight AI-powered web chatbot built as a personal digital companion.
 
-Live at: 
+Live at: https://companion-ai-1.onrender.com
 
 ✨ About
 
