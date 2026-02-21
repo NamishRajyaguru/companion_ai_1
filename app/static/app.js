@@ -70,7 +70,7 @@ function addMessage(text, sender) {
   avatar.src =
     sender === "bot"
       ? "/static/assets/bot-logo.png"
-      : "/static/assets/user.jpg";
+      : "/static/assets/user.png";
 
   const bubble = document.createElement("div");
   bubble.className = "bubble";
