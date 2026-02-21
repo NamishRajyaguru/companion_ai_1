@@ -37,7 +37,7 @@ Deployment: Render
 Version Control: Git + GitHub
 
 🚀 How to Run Locally
-git clone <your-repo-link>
+git clone https://github.com/NamishRajyaguru/companion_ai_1.git
 cd companion_ai
 python -m venv venv
 venv\Scripts\activate  # Windows

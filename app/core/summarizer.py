@@ -15,7 +15,7 @@ def build_memory_summary(memory: dict) -> str:
     # --- Core identity ---
     name = identity.get("name")
     if name:
-        lines.append(f"Her name is {name}.")
+        lines.append(f"His name is {name}.")
 
     # --- Communication style ---
     tone = preferences.get("tone")
@@ -28,17 +28,17 @@ def build_memory_summary(memory: dict) -> str:
         style_parts.append(humour)
 
     if style_parts:
-        lines.append(f"She prefers a {', '.join(style_parts)} communication style.")
+        lines.append(f"He prefers a {', '.join(style_parts)} communication style.")
 
     # --- Emotional baseline (high level only) ---
     baseline = emotional.get("baseline")
     if baseline:
-        lines.append("She is emotionally expressive and values conversation.")
+        lines.append("He is emotionally expressive and values conversation.")
 
     # --- Relationship status (NO names) ---
     partner = relationships.get("partner", {})
     if partner.get("status"):
-        lines.append("She is in a relationship.")
+        lines.append("He is in a relationship.")
 
     if not lines:
         return ""

@@ -9,9 +9,9 @@ const sendBtn = document.getElementById("sendBtn");
 const emptyState = document.getElementById("emptyState");
 
 const emptyMessages = [
-  "What’s new today, Srishti?",
+  "What’s new today?",
   "Send a message to start the conversation.",
-  "Meow-Chi is listening 🐾",
+  "Companion AI is listening 🐾",
 ];
 
 function showEmptyState() {
